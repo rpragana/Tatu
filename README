@@ -1,6 +1,9 @@
+Tatu Web Server
+===============
+
 Tatu is a small web server, http/1.1 compliant, in a starkit.
 
-To get its newer releases, grab the code for one of the projects which uses it. I suggest "rssReader".
+** To get its newer releases, grab the code for one of the projects which uses it. I suggest "rssReader".
 Most important files are lib/app/tatu-loader.tcl, lib/tatu/tatu.tcl, and plugins/logger.tcl.
 
 
